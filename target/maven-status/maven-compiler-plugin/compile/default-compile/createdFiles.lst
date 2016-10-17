@@ -1,0 +1,6 @@
+sanket/free/distribution/data/DataSetBuilder.class
+sanket/free/distribution/Helper/Color.class
+sanket/free/distribution/driver/DetectionEngineDriver.class
+sanket/free/distribution/Helper/ColorModel.class
+sanket/free/distribution/ClassificationEngine/Classifier.class
+sanket/free/distribution/data/ModelBuilder.class
